@@ -1,0 +1,82 @@
+
+### 1. **Basic Java Questions**
+
+* **Write a Java program to check if a number is prime or not.**
+* **Write a Java program to reverse a given string.**
+* **Write a Java program to find the factorial of a number using recursion.**
+* **Write a Java program to check if a string is a palindrome.**
+* **Write a Java program to find the largest and smallest number in an array.**
+
+### 2. **Control Flow and Loops**
+
+* **Write a Java program to print the Fibonacci series up to N terms.**
+* **Write a Java program to print a pattern of stars (like a pyramid or diamond).**
+* **Write a Java program to find the sum of digits of a given number.**
+* **Write a Java program to check if a number is even or odd.**
+* **Write a Java program to display all prime numbers between 1 and n.**
+
+### 3. **Object-Oriented Programming (OOP) Concepts**
+
+* **Write a Java class `Car` with attributes like make, model, and year, and methods like start() and stop().**
+* **Create an interface `Shape` with methods `area()` and `perimeter()`. Implement this interface in classes `Circle` and `Rectangle`.**
+* **Write a Java program demonstrating the use of method overloading and method overriding.**
+* **Write a Java program that uses a constructor to initialize the attributes of a class and print them using a method.**
+* **Write a Java program to create a simple inheritance hierarchy. (e.g., `Animal` -> `Dog`)**
+
+### 4. **Collections Framework**
+
+* **Write a Java program to demonstrate the use of ArrayList.**
+* **Write a Java program to demonstrate the use of HashMap.**
+* **Write a Java program to sort an ArrayList of integers in ascending and descending order.**
+* **Write a Java program to remove duplicates from an ArrayList.**
+* **Write a Java program to iterate over a Set and display its elements.**
+
+### 5. **Exception Handling**
+
+* **Write a Java program to handle arithmetic exceptions (divide by zero).**
+* **Write a Java program that throws a custom exception if a negative number is entered.**
+* **Write a Java program to handle multiple exceptions using try-catch blocks.**
+* **Write a Java program that demonstrates the use of `finally` block.**
+* **Write a Java program to create a user-defined exception for invalid input.**
+
+### 6. **File I/O Operations**
+
+* **Write a Java program to read data from a file and print it on the console.**
+* **Write a Java program to write data into a file.**
+* **Write a Java program to append text to an existing file.**
+* **Write a Java program to read a file line by line using BufferedReader.**
+* **Write a Java program to count the number of words in a file.**
+
+### 7. **Multithreading**
+
+* **Write a Java program to create and start a thread using the `Runnable` interface.**
+* **Write a Java program to demonstrate the use of `Thread.sleep()`.**
+* **Write a Java program to synchronize a method to avoid thread interference.**
+* **Write a Java program to demonstrate the concept of thread priority.**
+* **Write a Java program that creates two threads and prints "Hello" and "World" alternately.**
+
+### 8. **Data Structures and Algorithms**
+
+* **Write a Java program to implement a linked list.**
+* **Write a Java program to implement a stack using an array or LinkedList.**
+* **Write a Java program to implement a queue using an array or LinkedList.**
+* **Write a Java program to find the nth Fibonacci number using dynamic programming.**
+* **Write a Java program to implement a binary search algorithm on a sorted array.**
+
+### 9. **Java 8 Features**
+
+* **Write a Java program to demonstrate the use of lambda expressions.**
+* **Write a Java program to filter a list of numbers using Streams and display even numbers.**
+* **Write a Java program that uses Optional to avoid `NullPointerException`.**
+* **Write a Java program to find the sum of a list of numbers using Stream API.**
+* **Write a Java program to demonstrate method reference using the `Consumer` interface.**
+
+### 10. **Java Basics (Advanced)**
+
+* **Write a Java program to create and use a singleton class.**
+* **Write a Java program to demonstrate the use of `synchronized` keyword.**
+* **Write a Java program that demonstrates the use of `final`, `finally`, and `finalize()`.**
+* **Write a Java program to demonstrate the use of annotations.**
+* **Write a Java program to create a custom generic class.**
+
+---
